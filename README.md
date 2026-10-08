@@ -13,6 +13,7 @@ Zoek in de bestanden naar deze plekken:
 | Formulier-endpoint (Formspree/Getform e.d.) | `FORM_ENDPOINT` in `script.js` (leeg = mailto-fallback) |
 | Voorbeeldcijfers in de hero (`+38%`, `0,9s`) | `index.html` – vervang door eigen, aantoonbare cijfers |
 | Portfolio-cases | sectie `#werk`; vervang de gradient-vlakken (`.c1`–`.c3` in `styles.css`) door screenshots |
+| Afbeeldingen (portret + 3 cases) | zie `assets/images/README.md` |
 | Reviews | sectie `#reviews` – **alleen echte reviews plaatsen** |
 | Prijzen/pakketten | sectie `#pakketten` |
 | KvK/BTW | footer |
