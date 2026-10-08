@@ -1,6 +1,6 @@
 # Afbeeldingen
 
-Zet hier je eigen bestanden. Zolang een bestand ontbreekt, toont de site een kleurvlak.
+Zet hier je eigen bestanden. Zolang een bestand ontbreekt, toont de site een voorbeeld-placeholder uit `placeholders/`. Verwijder die map niet eerder dan nadat je alle vier de echte bestanden hebt geplaatst.
 
 | Bestand | Gebruik | Aanbevolen formaat |
 |---|---|---|

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-label="Voorbeeldportret">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6e6b8"/><stop offset="1" stop-color="#95bf47"/></linearGradient></defs>
+<rect width="520" height="620" fill="url(#b)"/>
+<circle cx="260" cy="230" r="95" fill="#0b1f17" opacity=".28"/>
+<path d="M70 620c0-130 80-210 190-210s190 80 190 210z" fill="#0b1f17" opacity=".28"/>
+<rect x="150" y="560" width="220" height="30" rx="15" fill="#0b1f17" opacity=".6"/><text x="260" y="580" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fff" letter-spacing="1">JOUW FOTO HIER</text>
+</svg>
